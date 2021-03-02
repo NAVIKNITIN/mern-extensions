@@ -1,0 +1,24 @@
+1- Mern Snippets 
+2- Mongo Snippets for Node.js 
+3 — ExpressJS 4 Snippets 
+4 — Express-faster 
+5 — ReactJS Code Snippets
+6 — ES7 React/Redux/GraphQL/React-Native snippets
+7 — Fullstack React/React Native Snippets by Walter Ribeiro
+8 — node-snippets 
+9 — Code Runner
+10 — Rest Client 
+11 — npm-intellisense by Christian Kohler
+12 — Node TTD by Prashant Tiwari
+13 — DotENV 
+14 — Javascript-booster by Stephen Burguchev 
+15 — Git Extension Pack 
+16 — TODO Highlight 
+17 — Prettier 
+18 — Path Intellisense
+19 — ShortJS Doc 
+20 — Better Comments by Aaron-bond 
+21 — Document This
+22 — Pomodoro Timer for VSCode
+23 — Code Time
+24 — Bracket Pair Colorizer 2
